@@ -1,0 +1,49 @@
+{
+  "navbar": {
+    "home": "首頁",
+    "profile": "個人資料",
+    "login": "登入",
+    "logout": "登出",
+    "register": "註冊"
+  },
+
+  "homePage": {
+    "title": "首頁",
+    "heading": "功能",
+    "item1": "登入/註冊 頁面",
+    "item2": "個人資料頁面(private route)",
+    "item3": "歡迎頁面(private route)",
+    "item4": "響應式設計",
+    "item5": "頁面跳轉",
+    "item6": "中英切換",
+    "item7": "使用 react-router-dom 及 React-i18next",
+    "item8": "明亮 & 黑暗模式"
+  },
+
+  "loginPage": {
+    "title": "登入",
+    "email": "信箱",
+    "passwordPlaceholder": "密碼",
+    "loginPlaceholder": "信箱",
+    "button": "登入"
+  },
+
+  "registerPage": {
+    "title": "註冊",
+    "email": "信箱",
+    "passwordPlaceholder": "密碼",
+    "confirmPlaceholder": "確認密碼",
+    "loginPlaceholder": "信箱",
+    "button": "註冊"
+  },
+
+  "profilePage": {
+    "title": "使用者資訊",
+    "heading": "以下是您的資訊: "
+  },
+
+  "welcomePage": {
+    "title": "歡迎頁面",
+    "content": "如果你看到此頁面，代表您已成功註冊/登入 !!!"
+  }
+}

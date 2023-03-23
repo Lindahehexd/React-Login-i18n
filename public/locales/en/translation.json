@@ -1,0 +1,49 @@
+{
+  "navbar": {
+    "home": "Home",
+    "profile": "Profile",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register"
+  },
+
+  "homePage": {
+    "title": "Home Page",
+    "heading": "Features",
+    "item1": "Login / Register Page",
+    "item2": "Profile Page after login success (private)",
+    "item3": "Welcome Page (private)",
+    "item4": "Responsive Design",
+    "item5": "Page Navigation",
+    "item6": "Support 2 languages",
+    "item7": "Use react-router-dom v6 and React-i18next",
+    "item8": "Dark & light mode"
+  },
+
+  "loginPage": {
+    "title": "Login",
+    "email": "Email",
+    "passwordPlaceholder": "Password",
+    "loginPlaceholder": "Email",
+    "button": "Login"
+  },
+
+  "registerPage": {
+    "title": "Register",
+    "email": "Email",
+    "passwordPlaceholder": "Password",
+    "confirmPlaceholder": "Confirm Password",
+    "loginPlaceholder": "Email",
+    "button": "Register"
+  },
+
+  "welcomePage": {
+    "title": "Welcome Page",
+    "content": "When you see this, it means you are registered or login successfully !!!"
+  },
+
+  "profilePage": {
+    "title": "Profile Page",
+    "heading": "Your Profile Info: "
+  }
+}
